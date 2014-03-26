@@ -2,11 +2,11 @@
 <resources>
     <plurals name="num_folders">
         <item quantity="other">%d папки</item>
-        <item quantity="one">Папка</item>
+        <item quantity="one">Папки</item>
     </plurals>
     <plurals name="num_files">
         <item quantity="other">%d файла</item>
-        <item quantity="one">Файл</item>
+        <item quantity="one">Файлы</item>
     </plurals>
     <plurals name="less_than_one_minute">
         <item quantity="other">Только что</item>
