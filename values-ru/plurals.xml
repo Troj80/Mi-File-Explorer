@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="num_folders">
-        <item quantity="other">%d folders</item>
-        <item quantity="one">One folder</item>
+        <item quantity="other">%d папок</item>
+        <item quantity="one">Одна папка</item>
     </plurals>
     <plurals name="num_files">
-        <item quantity="other">%d files</item>
-        <item quantity="one">One file</item>
+        <item quantity="other">%d файлов</item>
+        <item quantity="one">Один файл</item>
     </plurals>
     <plurals name="less_than_one_minute">
-        <item quantity="other">Just now</item>
+        <item quantity="other">Только что</item>
     </plurals>
     <plurals name="num_minutes_ago">
-        <item quantity="other">%d minutes ago</item>
-        <item quantity="one">Last minute</item>
+        <item quantity="other">%d минут назад</item>
+        <item quantity="one">Минуту назад</item>
     </plurals>
     <plurals name="half_hour_ago">
-        <item quantity="other">Half an hour ago</item>
+        <item quantity="other">Менее часа назад</item>
     </plurals>
     <plurals name="num_hours_ago">
-        <item quantity="other">%d hours ago</item>
-        <item quantity="one">An hour ago</item>
+        <item quantity="other">%d часов назад</item>
+        <item quantity="one">Час назад</item>
     </plurals>
     <plurals name="num_days_ago">
-        <item quantity="other">%d days ago</item>
-        <item quantity="one">One day ago</item>
+        <item quantity="other">%d дней назад</item>
+        <item quantity="one">День назад</item>
     </plurals>
     <plurals name="num_weeks_ago">
-        <item quantity="other">%d weeks ago</item>
-        <item quantity="one">One week ago</item>
+        <item quantity="other">%d недель назадo</item>
+        <item quantity="one">Неделю назад</item>
     </plurals>
     <plurals name="num_months_ago">
-        <item quantity="other">%d months ago</item>
-        <item quantity="one">One month ago</item>
+        <item quantity="other">%d месяцев назад</item>
+        <item quantity="one">Месяц назад</item>
     </plurals>
     <plurals name="num_years_ago">
-        <item quantity="other">%d years ago</item>
-        <item quantity="one">One year ago</item>
+        <item quantity="other">%d год назад</item>
+        <item quantity="one">Год назад</item>
     </plurals>
 </resources>
