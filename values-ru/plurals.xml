@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="num_folders">
-        <item quantity="other">%d папок</item>
-        <item quantity="one">Одна папка</item>
+        <item quantity="other">%d папки</item>
+        <item quantity="one">Папка</item>
     </plurals>
     <plurals name="num_files">
-        <item quantity="other">%d файлов</item>
-        <item quantity="one">Один файл</item>
+        <item quantity="other">%d файла</item>
+        <item quantity="one">Файл</item>
     </plurals>
     <plurals name="less_than_one_minute">
         <item quantity="other">Только что</item>

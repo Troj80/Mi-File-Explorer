@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="title">Russian</string>
     <string name="media_folders">Все папки</string>
     <string name="go_to_location">Перейти</string>
     <string name="open_in_new_tab">Открыть в новой вкладке</string>
     <string name="settings_kill_app">Kill the app</string>
-    <string name="summary_kill_app">Удалять из памяти при выходе</string>
+    <string name="summary_kill_app">Удалять приложение из памяти при выходе</string>
     <string name="history">История</string>
     <string name="settings_auto_update">Автообновление</string>
     <string name="summary_auto_update">Показывать оповещения о авто обновлении при запуске</string>
@@ -209,8 +210,8 @@
     <string name="lock">Заблокировать</string>
     <string name="unlock">Разблокировать</string>
     <string name="task_list">Список задач</string>
-    <string name="network_new">New Storage</string>
-    <string name="network_edit">Edit Storage</string>
+    <string name="network_new">Новое хранилище</string>
+    <string name="network_edit">Редактировать хранилище</string>
     <string name="network_server">Интернет или сетевой адрес</string>
     <string name="network_display_name">Отображаемое имя (необязательно)</string>
     <string name="network_username">Имя пользователя</string>
@@ -220,7 +221,7 @@
     <string name="network_scheme_not_valid">Недопустимый URL адрес.</string>
     <string name="network_advanced_settings">Расширенные настройки</string>
     <string name="network_search_local">Локальный поиск</string>
-    <string name="settings_about">О</string>
+    <string name="settings_about">О программе</string>
     <string name="settings_skins">Тема</string>
     <string name="settings_localization">Язык</string>
     <string name="settings_clear_cache">Очистить кэш</string>
@@ -303,7 +304,7 @@
     <string name="select">Выбрать</string>
     <string name="clear">Очистить</string>
     <string name="sd_card">SD карта</string>
-    <string name="ext_sd">Внеш. SD</string>
+    <string name="ext_sd">SD карта</string>
     <string name="root">Root</string>
     <string name="usb_storage">USB%d</string>
     <string name="save_ask">Вы хотите сохранить изменения?</string>
