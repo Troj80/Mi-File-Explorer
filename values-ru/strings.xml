@@ -181,7 +181,7 @@
     <string name="file_operation">Операции с файлами</string>
     <string name="files_selected">%s выбрано</string>
     <string name="unknown">Неизвестно</string>
-    <string name="no_item">Отсутствует</string>
+    <string name="no_item">Пусто</string>
     <string name="cancel">Отмена</string>
     <string name="ok">OK</string>
     <string name="confirm">Подтвердить</string>
